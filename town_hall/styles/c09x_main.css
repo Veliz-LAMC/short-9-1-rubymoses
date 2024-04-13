@@ -94,6 +94,16 @@ section {
     order: 1;
 	padding: 0 2.5% 20px 2.5%;
 }
+aside#left {
+	flex: 0 0 30%;
+	order: 2;
+	padding: 0 0 20px 2.5%;	
+}
+aside#right {
+	flex:0 0 30%;
+	order: 3;
+	padding: 0 2.5% 20px 0;
+}
 section h1 {
 	font-size: 150%;
 	padding: .5em 0 .25em 0;
