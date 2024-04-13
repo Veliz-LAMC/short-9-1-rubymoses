@@ -90,9 +90,8 @@ main {
 
 /* the styles for the section */
 section {
-    flex-basis: 0 0 60%;
     order: 1;
-	padding: 0 2.5% 20px 2.5%;
+    padding: 0 2.5% 20px 2.5%;
 }
 section h1 {
 	font-size: 150%;
